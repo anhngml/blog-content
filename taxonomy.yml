@@ -1,0 +1,83 @@
+# N-Level Taxonomy for AI Blog
+# Cấu trúc: Topic -> Subtopic -> [Concepts]
+
+AI & Machine Learning:
+  Core Concepts:
+    - Artificial Intelligence
+    - Machine Learning
+    - LLM
+    - Fine-tuning
+    - Embedding
+    - Natural Language Processing
+    - Prompt Engineering
+    - Zero-shot Prompting
+    - Few-shot Prompting
+    - Chain-of-Thought
+    - System Prompt
+    - Temperature
+  AI Agents:
+    - Agents
+    - AI Agent
+    - AI Agents
+    - Multi-agent
+    - ReAct
+    - ReAct Pattern
+    - Tool Use
+    - Function Calling
+    - Planning
+    - Memory
+    - In-context Memory
+    - External Memory
+    - Memory Management
+  RAG & Search:
+    - RAG
+    - Retrieval-Augmented Generation
+    - GraphRAG
+    - Semantic Search
+    - Hybrid Search
+    - Semantic Similarity Search
+    - Vector DB
+    - Vector Database
+    - Databases
+    - Approximate Nearest Neighbor (ANN) Search
+    - HNSW
+    - Filtering
+    - Chunking
+    - Information Retrieval
+    - Data Retrieval
+    - Private Knowledge Base
+  Knowledge Graph:
+    - Knowledge Graph
+    - Graph Database
+    - Semantic Relationships
+    - Structured Relationships
+    - Entity Extraction
+    - Entities
+    - Community Clusters
+    - Properties
+    - Relationships
+    - Topic Groups
+    - Temporal Validity
+    - Temporal Reasoning
+    - Explainability
+Software Architecture:
+  Integration & Protocols:
+    - MCP
+    - Model Context Protocol
+    - MCP Server
+    - MCP Client
+    - MCP Host
+    - Protocols
+    - Data Integration
+    - Open Protocols
+    - Standardization
+    - Unification
+    - Pre-built Prompt Templates
+    - Context Window
+    - Static Data Sources
+    - M × N Problem
+    - Infrastructure
+  AI-assisted Engineering:
+    - AI-assisted Engineering
+    - Software Engineering
+    - SDLC
