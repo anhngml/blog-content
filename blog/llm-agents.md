@@ -17,7 +17,11 @@ concepts:
   - Function Calling
   - Planning
   - ReAct
+  - ReAct Pattern
   - Memory
+  - In-context Memory
+  - External Memory
+  - Memory Management
   - Multi-agent
 tools:
   - LangChain
@@ -27,8 +31,7 @@ tools:
   - AutoGen
   - CrewAI
 topics:
-  - AI
-  - Agents
+  - AI Agents
 relations:
   - to: mcp-introduction
     type: SAME_TOPIC

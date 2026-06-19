@@ -13,9 +13,13 @@ tags:
 lang: vi
 concepts:
   - Knowledge Graph
+  - Graph Database
   - GraphRAG
   - Semantic Relationships
+  - Structured Relationships
   - Entity Extraction
+  - Community Clusters
+  - Temporal Validity
   - Temporal Reasoning
   - Explainability
 tools:
@@ -25,7 +29,6 @@ tools:
   - Weaviate
   - LangChain
 topics:
-  - AI
   - Knowledge Graph
 relations:
   - to: vector-databases

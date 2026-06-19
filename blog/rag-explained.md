@@ -12,6 +12,8 @@ tags:
 lang: vi
 concepts:
   - RAG
+  - Retrieval-Augmented Generation
+  - Information Retrieval
   - Vector DB
   - Embedding
   - Semantic Search
@@ -23,8 +25,7 @@ tools:
   - ChromaDB
   - OpenAI
 topics:
-  - AI
-  - RAG
+  - RAG & Retrieval
 relations:
   - to: vector-databases
     type: PREREQUISITE

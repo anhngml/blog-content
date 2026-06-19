@@ -12,6 +12,13 @@ tags:
 lang: vi
 concepts:
   - MCP
+  - Model Context Protocol
+  - MCP Server
+  - MCP Client
+  - MCP Host
+  - M × N Problem
+  - Open Protocols
+  - Standardization
   - AI Agents
   - Tool Use
   - Function Calling
@@ -22,8 +29,7 @@ tools:
   - neo4j-mcp
   - filesystem-mcp
 topics:
-  - AI
-  - Agents
+  - Integration & Protocols
 relations:
   - to: llm-agents
     type: SAME_TOPIC

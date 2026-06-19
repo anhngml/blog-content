@@ -12,8 +12,10 @@ tags:
 lang: vi
 concepts:
   - Vector DB
+  - Vector Database
   - HNSW
   - ANN Search
+  - Approximate Nearest Neighbor (ANN) Search
   - Embedding
   - Hybrid Search
   - Filtering
@@ -25,9 +27,7 @@ tools:
   - Milvus
   - pgvector
 topics:
-  - AI
-  - RAG
-  - Infrastructure
+  - Vector Databases
 relations:
   - to: rag-explained
     type: SEQUEL

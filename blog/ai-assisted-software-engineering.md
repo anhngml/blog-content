@@ -16,9 +16,13 @@ lang: vi
 concepts:
   - AI-assisted Engineering
   - SDLC
+  - Context Engineering
+  - Task Graph
+  - Observability
 tools: []
 topics:
-  - Software Architecture
+  - AI-assisted Engineering
+  - AI Agents
 relations: []
 ---
 

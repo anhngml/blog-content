@@ -12,6 +12,7 @@ tags:
   - AI
   - Tutorial
 concepts:
+  - LLM
   - Zero-shot Prompting
   - Few-shot Prompting
   - Chain-of-Thought
@@ -23,7 +24,7 @@ tools:
   - Claude
   - Gemini
 topics:
-  - AI & Machine Learning
+  - LLM & Prompting
 relations:
   - to: rag-explained
     type: SAME_TOPIC
