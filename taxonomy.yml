@@ -2,45 +2,62 @@
 # Cấu trúc: Topic -> Subtopic -> [Concepts]
 
 AI & Machine Learning:
-  LLM & Inference:
-    - PagedAttention
-    - Continuous Batching
-    - KV Cache
-    - Quantization
-  RAG & Retrieval:
-    - RAG
-    - Vector Search
-    - Embedding
-  AI Agents:
-    - Tool Use
-    - Function Calling
-    - Multi-agent Systems
-  MLOps:
-    - Model Deployment
-    - Model Serving
-Software Engineering:
-  Architecture & Design Patterns: []
-  Testing & Quality: []
-  Development Practices: []
-Infrastructure & DevOps:
-  Containerization:
-    - Docker
-    - Docker Compose
-  Orchestration: []
-  Networking: []
-  Monitoring & Observability: []
-Distributed Systems:
-  Consensus & Replication: []
-  Scalability: []
+  AI Agents: []
+  Computer Vision: []
+  LLM & Inference: []
+  Machine Learning: []
+  MLOps: []
+  RAG & Retrieval: []
 Data & Databases:
+  Data Pipelines & ETL: []
+  Graph Databases: []
+  NoSQL & Document Stores: []
   Relational Databases: []
   Vector Databases: []
-  Graph Databases: []
-Security:
-  Authentication & Authorization: []
-  Infrastructure Security: []
-Mathematics & Foundations:
-  Linear Algebra: []
-  Probability & Statistics: []
-  Optimization: []
+Developer Tools & Workflows:
+  Debugging & Profiling: []
+  Developer Productivity: []
+  IDEs & Editors: []
+  Version Control: []
+DevOps & SRE:
+  CI/CD: []
+  Infrastructure as Code: []
+  Monitoring & Observability: []
+  Site Reliability Engineering: []
+Mathematics & Theory:
   Algorithms & Data Structures: []
+  Complexity Theory: []
+  Information Theory: []
+  Linear Algebra & Calculus: []
+  Probability & Statistics: []
+Networking & Distributed Systems:
+  Cloud Computing: []
+  Distributed Systems Architecture: []
+  Edge & IoT: []
+  Network Protocols: []
+Programming Languages:
+  Compilers & Interpreters: []
+  Language Design & Theory: []
+  Paradigms: []
+  Type Systems: []
+Security & Cryptography:
+  Application Security: []
+  Authentication & Authorization: []
+  Cryptography: []
+  Infrastructure Security: []
+  Network Security: []
+Software Engineering:
+  Architecture & Design Patterns: []
+  Code Quality & Refactoring: []
+  Development Practices: []
+  Testing & Quality Assurance: []
+Systems & Infrastructure:
+  Computer Architecture & Hardware: []
+  Containerization & Virtualization: []
+  Operating Systems: []
+  Storage Systems: []
+Web & Frontend:
+  Browsers & Runtimes: []
+  Frontend Development: []
+  UI & UX Design: []
+  Web Protocols & Standards: []
