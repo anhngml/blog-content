@@ -1,4 +1,46 @@
 # N-Level Taxonomy for AI Blog
 # Cấu trúc: Topic -> Subtopic -> [Concepts]
 
-AI & Machine Learning: {}
+AI & Machine Learning:
+  LLM & Inference:
+    - PagedAttention
+    - Continuous Batching
+    - KV Cache
+    - Quantization
+  RAG & Retrieval:
+    - RAG
+    - Vector Search
+    - Embedding
+  AI Agents:
+    - Tool Use
+    - Function Calling
+    - Multi-agent Systems
+  MLOps:
+    - Model Deployment
+    - Model Serving
+Software Engineering:
+  Architecture & Design Patterns: []
+  Testing & Quality: []
+  Development Practices: []
+Infrastructure & DevOps:
+  Containerization:
+    - Docker
+    - Docker Compose
+  Orchestration: []
+  Networking: []
+  Monitoring & Observability: []
+Distributed Systems:
+  Consensus & Replication: []
+  Scalability: []
+Data & Databases:
+  Relational Databases: []
+  Vector Databases: []
+  Graph Databases: []
+Security:
+  Authentication & Authorization: []
+  Infrastructure Security: []
+Mathematics & Foundations:
+  Linear Algebra: []
+  Probability & Statistics: []
+  Optimization: []
+  Algorithms & Data Structures: []
